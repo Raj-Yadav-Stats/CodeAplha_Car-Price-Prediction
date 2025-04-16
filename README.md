@@ -1,12 +1,15 @@
-Car Price Prediction using Machine Learning:
+**Car Price Prediction using Machine Learning:**
+
 This project demonstrates how to predict car prices using various machine learning techniques. It is designed with beginner data scientists in mind and follows a clean, step-by-step approach to model development.
 
-Project Structure:
+**Project Structure:**
+
 Car_Prediction.ipynb: The main Jupyter notebook that includes code for data preprocessing, model training, and evaluation.
 
 car_data.csv: The dataset used for training the car price prediction model (ensure this is available in the same directory).
 
-Dataset:
+**Dataset:**
+
 The dataset contains information about used cars such as:
 
 1.Car name and model
@@ -21,7 +24,8 @@ The dataset contains information about used cars such as:
 
 6.Number of owners
 
-Techniques Used:
+**Techniques Used:**
+
 Linear Regression Model
 
 Data Cleaning and Preprocessing
@@ -32,32 +36,30 @@ Train/Test Split
 
 Model Evaluation (R² score, MSE)
 
-How to Run
-Clone the repository:
+**How to Run**
 
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/car-price-prediction.git
-Install dependencies:
+**Clone the repository:**
 
-bash
-Copy
-Edit
+git clone https://github.com/Raj-Yadav-Stats/car-price-prediction.git
+
+
+**Install dependencies:**
+
 pip install pandas numpy scikit-learn
-Run the Jupyter Notebook:
 
-bash
-Copy
-Edit
+**Run the Jupyter Notebook:**
+
 jupyter notebook Car_Prediction.ipynb
-Future Improvements
+
+**Future Improvements:**
+
 Include other models like Decision Trees, Random Forest, or XGBoost.
 
 Hyperparameter tuning using GridSearchCV.
 
 Improve EDA with visuals.
 
-Author:
+**Author:**
 Raj
+
 A data science intern exploring the power of machine learning and real-world data problems.
